@@ -27,8 +27,8 @@ Rotate the image using cv2.rotate(smaller_frame,cv2.cv2.ROTATE_180).
 
 ## Program:
 ``` 
-### Developed By: M Parshwanath
-### Register No: 212221230073
+### Developed By: Vismaya S
+### Register No: 212221230125
 ```
 ```
 ## i) Write the frame as JPG file
